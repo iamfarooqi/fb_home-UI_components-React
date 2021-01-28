@@ -2,7 +2,7 @@
   "name": "firstreactproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{Github-username}.github.io/{Github-repo-name}",
+  "homepage": "http://iamfarooqi.github.io/{Github-repo-name}",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
