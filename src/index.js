@@ -8,6 +8,7 @@ import './index.css';
 
 const Fbcard = ({profile, title, body, imageUrl}) => {
   return <div className={"body"}>
+    <h1>First Method</h1>
     
     <h1> <img className={"profile"} src={profile} alt="profile"/> {title}</h1>
     <p> {body}</p>
@@ -46,6 +47,7 @@ ReactDOM.render(
 // function Fbcard(fb) {
 
 //   return <div className={"body"}>
+//     <h1>Secnd Method</h1>
 //     <h1><img className={"profile"} src={fb.profile} alt="profile"/> {fb.title}</h1>
 //     <p> {fb.body}</p>
 //     <img className={"post-img"} src={fb.imageUrl} alt="fbpostpic" />
